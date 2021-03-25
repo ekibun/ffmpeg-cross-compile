@@ -1,0 +1,12 @@
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "fdk-aac"]
+	path = fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "x264"]
+	path = x264
+	url = https://github.com/mirror/x264.git
+[submodule "x265"]
+	path = x265
+	url = https://github.com/videolan/x265.git
